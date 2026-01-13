@@ -19,7 +19,7 @@ function Menu() {
       </div>
       <MenuButton page ={"/Pedidos"} name="Pedidos" icon={<ClipboardList />} />
       <MenuButton name="Chat" icon={<MessageCircleMore />} />
-      <MenuButton name="Lista de Desejos" icon={<Heart />} />
+      <MenuButton page={"/Desejos"} name="Lista de Desejos" icon={<Heart />} />
       <MenuButton name="Configurações" icon={<Settings />} />
       <MenuButton name="Central de Ajuda" icon={<Headset />} />
     </div>

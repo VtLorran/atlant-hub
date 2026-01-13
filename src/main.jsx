@@ -5,6 +5,7 @@ import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Carrinho from "./pages/Carrinho.jsx";
 import Pedidos from "./pages/Pedidos.jsx";
+import ListaDesejos from "./pages/ListaDesejos.jsx";
 
 const router = createBrowserRouter([
   {
@@ -19,6 +20,10 @@ const router = createBrowserRouter([
     path: "/Pedidos",
     element: <Pedidos/>,
   },
+  {
+    path: "/Desejos",
+    element: <ListaDesejos/>
+  } 
 ]);
 
 createRoot(document.getElementById("root")).render(
