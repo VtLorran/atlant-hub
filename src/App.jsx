@@ -10,7 +10,7 @@ function App() {
       <Header />
       <Nav />
       <Hero />
-        
+      <Catalog/>
       <div className="mt-auto">
         <Footer />
       </div>
