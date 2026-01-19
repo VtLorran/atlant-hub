@@ -18,9 +18,9 @@ O sistema permite negociações em larga escala, acesso a catálogos completos d
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" alt="Tailwindcss" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="50" height="50"/>
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.96ee6a5a.svg" alt="Tailwindcss" width="50" height="50">
 </p>
 
 ---
